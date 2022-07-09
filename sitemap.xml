@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zhaoyingjun12138.github.io/2022/07/08/%E5%9B%BE%E8%AE%BA%E7%9A%84%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://zhaoyingjun12138.github.io/2022/07/08/DP/</loc>
     
     <lastmod>2022-07-09</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://zhaoyingjun12138.github.io/2022/07/08/DP/</loc>
+    <loc>https://zhaoyingjun12138.github.io/2022/07/08/%E5%9F%BA%E6%9C%AC%E7%AE%97%E6%B3%95/</loc>
     
     <lastmod>2022-07-09</lastmod>
     
@@ -29,7 +29,16 @@
   </url>
   
   <url>
-    <loc>https://zhaoyingjun12138.github.io/2022/07/08/%E5%9F%BA%E6%9C%AC%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://zhaoyingjun12138.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-07-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhaoyingjun12138.github.io/2022/07/08/%E5%9B%BE%E8%AE%BA%E7%9A%84%E5%AD%A6%E4%B9%A0/</loc>
     
     <lastmod>2022-07-09</lastmod>
     
@@ -66,15 +75,6 @@
   
   <url>
     <loc>https://zhaoyingjun12138.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-07-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhaoyingjun12138.github.io/tags/index.html</loc>
     
     <lastmod>2022-07-09</lastmod>
     
